@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[williamhinsch@gmail.com]]></title>
         <description><![CDATA[williamhinsch@gmail.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/williamhinsch-gmail-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 19:49:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 19:49:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/williamhinsch-gmail-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello this is a test of Grid</p>]]></description>
-            <link>undefinedhello-this-is-a-test-of-grid/index.html</link>
+            <link>https://thegrid.ai/williamhinsch-gmail-com/hello-this-is-a-test-of-grid/index.html</link>
             <guid isPermaLink="false">6be72623-632e-4050-9332-effb58093c54</guid>
-            <pubDate>Sat, 07 May 2016 19:48:54 GMT</pubDate>
+            <pubDate>Sat, 07 May 2016 19:49:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
