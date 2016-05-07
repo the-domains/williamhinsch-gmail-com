@@ -1,0 +1,28 @@
+name: williamhinsch@gmail.com
+favicon: null
+layout_spectrum: 0.5748972410801798
+typography_spectrum: 0.28554671560414135
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.40325131663121283
+  lightness: 0.5682085445150733
+  saturation: 0.8793047028593719
+  rhythmicContrast: 0.9890259653329849
+purpose: []
